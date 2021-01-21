@@ -11,7 +11,8 @@ public class MainTest {
 	private static final String String = null;
 
 	public static void main(String[] args) {
-		
+		System.out.println("********************Welcome to Library mangement System********************");
+		System.out.println("********************Its a Console Based project********************");
 		System.out.println("********************Library Mangement System********************");
 		// TODO Auto-generated method stub
 		System.out.println("Log in first ");
