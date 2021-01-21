@@ -18,6 +18,7 @@ public class LibrarianServiceImpl implements LibrarianService {
 	 
       
 	public void addBook() {
+		 System.out.println("*********Add A Book*********");
 		System.out.println("Enter Book Id:");
 	    int bookid = sc.nextInt();
 	  
@@ -47,6 +48,7 @@ public class LibrarianServiceImpl implements LibrarianService {
 	@Override
 	public void showAllBooks() {
 		// TODO Auto-generated method stub
+		 System.out.println("*********View All books *********");
 		 book.add(b1);
 	      book.add(b2);
 	      book.add(b3);
