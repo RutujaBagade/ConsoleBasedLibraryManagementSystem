@@ -55,6 +55,9 @@ public class Register {
 			this.emailId = emailId;
 			this.phoneNo = phoneNo;
 		}
+		public Register() {
+			// TODO Auto-generated constructor stub
+		}
 	    
 	    
 	    
